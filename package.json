@@ -17,6 +17,6 @@
     "ejs-locals": "0.1.1",
     "mongoose": "3.8.19",
     "express-mongodb": "0.0.4",
-    "mongodb": "~1.4.19"
+    "mongodb": "~3.6.1"
   }
 }
